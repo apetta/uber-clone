@@ -35,7 +35,7 @@ You need to have Node.js, npm, and Expo CLI installed on your machine. Once you 
 
 1. Clone this repository:
 
-   ```git clone https://github.com/yourusername/uber-clone.git```
+   ```git clone https://github.com/apetta/uber-clone.git```
 
 2. Navigate to the project directory:
 
