@@ -2,6 +2,16 @@
 
 This project is an Uber clone, built with Expo, React Native and several other modern mobile development technologies. It showcases a simple replica of Uber's mobile UI.
 
+## Screenshots
+
+![Splash](image.png)
+
+![Home Screen](image-1.png)
+
+![Choose Destination](image-2.png)
+
+![Choose Ride](image-3.png)
+
 ## Technologies Used
 
 Here are the core technologies used in the development of this project:
@@ -24,18 +34,28 @@ Other notable libraries include:
 You need to have Node.js, npm, and Expo CLI installed on your machine. Once you have these, follow the steps:
 
 1. Clone this repository:
+
    ```git clone https://github.com/yourusername/uber-clone.git```
 
 2. Navigate to the project directory:
+
    ```cd uber-clone```
 
-3. Install the dependencies
+3. Install the dependencies:
+
    ```npm install```
 
-4. Start the Expo server
+4. Create a .env file in the root directory and add your Google Maps API key (you can get one [here](https://developers.google.com/maps/documentation/javascript/get-api-key)):
+
+   ```
+   GOOGLE_MAPS_APIKEY=your_google_maps_api_key
+   ```
+
+5. Start the Expo server:
+
    ```expo start```
 
-5. Open the app on your device with Expo Go by scanning the QR code that appears in the terminal or in the browser.
+6. Open the app on your device with Expo Go by scanning the QR code that appears in the terminal or in the browser. (Note: If there's an issue loading the app, try reloading it by pressing r in the terminal)
 
 
 
