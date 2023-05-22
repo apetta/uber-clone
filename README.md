@@ -4,13 +4,13 @@ This project is an Uber clone, built with Expo, React Native and several other m
 
 ## Screenshots
 
-![Splash](image.png)
+<img src="image.png"  height="720" alt="Splash Screen" />
 
-![Home Screen](image-1.png)
+<img src="image-1.png"  height="720" alt="Home Screen" />
 
-![Choose Destination](image-2.png)
+<img src="image-2.png"  height="720" alt="Choose Destination" />
 
-![Choose Ride](image-3.png)
+<img src="image-3.png"  height="720" alt="Choose Ride" />
 
 ## Technologies Used
 
@@ -55,7 +55,7 @@ You need to have Node.js, npm, and Expo CLI installed on your machine. Once you 
 
    ```expo start```
 
-6. Open the app on your device with Expo Go by scanning the QR code that appears in the terminal or in the browser. (Note: If there's an issue loading the app, try reloading it by pressing r in the terminal)
+6. Open the app on your device with Expo Go by scanning the QR code that appears in the terminal or in the browser. (Note: If there's an issue loading the app, try reloading it by pressing `r` in the terminal)
 
 
 
